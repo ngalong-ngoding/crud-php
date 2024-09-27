@@ -21,7 +21,7 @@
             </tr>
             <tr>
                 <td>Mobile</td>
-                <td><input type="text" name="moile"></td>
+                <td><input type="text" name="mobile"></td>
             </tr>
             <tr>
                 <td></td>
