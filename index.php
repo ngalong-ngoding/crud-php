@@ -15,7 +15,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 <body>
     <a href="add.php">Add New User</a>
 
-    <table width="80%" border="1">
+    <table width="90%" border="1">
         <tr>
             <th>Name</th>
             <th>Mobile</th>
